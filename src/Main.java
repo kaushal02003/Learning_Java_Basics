@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[]  args) {
-        System.out.print("Hello world ,");
+        System.out.print("Hello world , ");
         System.out.println(args[0]);
 
     }
